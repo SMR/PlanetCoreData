@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PlanetCoreData_Example' do
+  pod 'PlanetCoreData', :path => '../'
+
+  target 'PlanetCoreData_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
