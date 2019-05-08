@@ -1,0 +1,22 @@
+{
+  "name": "PlanetCoreData",
+  "version": "0.1.0",
+  "summary": "A short description of PlanetCoreData.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/smr.dubey508@gmail.com/PlanetCoreData",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "smr.dubey508@gmail.com": "samarjeet.dubey@cyqurex.co.in"
+  },
+  "source": {
+    "git": "https://github.com/smr.dubey508@gmail.com/PlanetCoreData.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PlanetCoreData/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module Pods_PlanetCoreData_Tests {
+  umbrella header "Pods-PlanetCoreData_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

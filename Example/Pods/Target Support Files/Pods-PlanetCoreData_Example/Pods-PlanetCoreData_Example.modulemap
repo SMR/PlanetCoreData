@@ -1,0 +1,6 @@
+framework module Pods_PlanetCoreData_Example {
+  umbrella header "Pods-PlanetCoreData_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module PlanetCoreData {
+  umbrella header "PlanetCoreData-umbrella.h"
+
+  export *
+  module * { export * }
+}

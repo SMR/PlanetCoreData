@@ -1,0 +1,16 @@
+PODS:
+  - PlanetCoreData (0.1.0)
+
+DEPENDENCIES:
+  - PlanetCoreData (from `../`)
+
+EXTERNAL SOURCES:
+  PlanetCoreData:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PlanetCoreData: da0d09fcd32603d6a666fd5e27f63f330f5546b3
+
+PODFILE CHECKSUM: b7da0f622879733c2a6b90ea95f6214080ee6f79
+
+COCOAPODS: 1.5.3
